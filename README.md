@@ -1,0 +1,2 @@
+# teza10a
+permutari
